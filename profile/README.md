@@ -7,7 +7,7 @@
 | <img src="https://avatars.githubusercontent.com/u/177808639?v=4" alt="앙큼" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/95402753?v=4" alt="딴도" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/152708161?v=4" alt="환장" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/143993211?v=4" alt="수댕" width="150px" /> | <img src="https://avatars.githubusercontent.com/u/102243321?v=4" alt="졸려" width="150px" /> |
 | :-------------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------------: | :--------------------------------------------------: | :----------------------------------------------------: |
 |     <a href="https://github.com/ssojeongg">앙큼(박소정)</a>      |   <a href="https://github.com/revy7289">딴도(이하성)</a>   |    <a href="https://github.com/hwanzanghagetne">환장(이승환)</a>     |  <a href="https://github.com/kimsudang">수댕(김수연)</a>   |     <a href="https://github.com/jaehunGit">졸려(정재훈)</a>     |
-|                       팀장, 백엔드                        |                          백엔드, 배포                           |                          백엔드,                           |                        프론트엔드                        |                         프론트엔드, 회초리                         |
+|                       팀장, 백엔드                        |                          백엔드, 배포                           |                          백엔드                           |                        프론트엔드                        |                         프론트엔드, 회초리                         |
 
 <br>
 
