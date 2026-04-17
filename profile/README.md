@@ -16,7 +16,7 @@
 ## 프로젝트 관련 링크
 > <a href="https://www.figma.com/design/ncEchSiR1krMixInoQPQU5/%EC%9E%AC%EA%B3%A0%ED%82%A4%ED%8D%BC?node-id=0-1&t=37LvmEfpFnjrckqW-1">피그마</a> </br>
 > <a href="https://www.erdcloud.com/d/7LYnKcNnz4mQgjxpb">ERD</a> </br>
-> 배포 </br>
+> <a href="https://jaegokeeper.vercel.app/">배포</a> </br>
 > <a href="https://github.com/Jachodan/jachodan-spring">백엔드 레포지토리</a> </br>
 > <a href="https://github.com/Jachodan/jachodan-next">프론트엔드 레포지토리</a> </br>
 
